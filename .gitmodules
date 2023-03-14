@@ -1,0 +1,3 @@
+[submodule "pylit"]
+	path = pylit
+	url = https://github.com/agniveshadhikari/pylit
